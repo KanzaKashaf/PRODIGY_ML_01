@@ -55,5 +55,5 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KanzaKashaf/house-price-prediction.git
-   cd house-price-prediction
+   git clone https://github.com/KanzaKashaf/PRODIGY_ML_01.git
+   cd PRODIGY_ML_01
